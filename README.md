@@ -1,2 +1,3 @@
-sudo pip install beautifulsoup4
-sudo pip install requests
+**Steps followed on a mac:**     
+1. sudo pip install beautifulsoup4   
+2. sudo pip install requests
